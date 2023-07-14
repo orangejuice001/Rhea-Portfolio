@@ -7,6 +7,7 @@ function App() {
     <div>
       //header
       //body
+      //added a card
       //footer
     </div>
   );
